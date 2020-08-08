@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Happy Birthday</string>
+    <string name="from_monona">From Monona.</string>
+    <string name="happy_birthday_bolo">Happy Birthday Bolo</string>
 </resources>
